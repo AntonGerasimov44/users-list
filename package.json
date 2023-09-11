@@ -2,6 +2,7 @@
   "name": "users-tz",
   "version": "0.1.0",
   "homepage": "https://antongerasimov44.github.io/users-list",
+  "proxy": "http://localhost:3000",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
