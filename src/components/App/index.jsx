@@ -8,6 +8,7 @@ import '../../styles/reset.scss'
 import styles from './styles.module.scss'
 
 export const App = () => {
+  console.log(process.env.PUBLIC_URL)
   return (
     <main className={styles.appWrapper}>
       <Routes>
